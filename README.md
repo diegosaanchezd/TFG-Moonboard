@@ -1,0 +1,1 @@
+En este repositorio se pone a disposición de todo el mundo un archivo zip que contiene una base de datos de problemas de la aplicación de MoonBoard, en formato json. Los problemas son de la configuración de 2017 y un ángulo de 40 grados.
